@@ -1,0 +1,14 @@
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\bin\Debug\net8.0\27. Radithya Akhmad Prianarengga.exe
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\bin\Debug\net8.0\27. Radithya Akhmad Prianarengga.deps.json
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\bin\Debug\net8.0\27. Radithya Akhmad Prianarengga.runtimeconfig.json
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\bin\Debug\net8.0\27. Radithya Akhmad Prianarengga.dll
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\bin\Debug\net8.0\27. Radithya Akhmad Prianarengga.pdb
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\obj\Debug\net8.0\27. Radithya Akhmad Prianarengga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\obj\Debug\net8.0\27. Radithya Akhmad Prianarengga.AssemblyInfoInputs.cache
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\obj\Debug\net8.0\27. Radithya Akhmad Prianarengga.AssemblyInfo.cs
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\obj\Debug\net8.0\27. Radithya Akhmad Prianarengga.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\obj\Debug\net8.0\27. Radithya Akhmad Prianarengga.dll
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\obj\Debug\net8.0\refint\27. Radithya Akhmad Prianarengga.dll
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\obj\Debug\net8.0\27. Radithya Akhmad Prianarengga.pdb
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\obj\Debug\net8.0\27. Radithya Akhmad Prianarengga.genruntimeconfig.cache
+C:\Users\Toshiba\OneDrive\Desktop\27.radithya.html\27. Radithya Akhmad Prianarengga\27. Radithya Akhmad Prianarengga\obj\Debug\net8.0\ref\27. Radithya Akhmad Prianarengga.dll
